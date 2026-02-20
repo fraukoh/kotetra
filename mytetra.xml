@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
+   <recordtable>
+    <record id="1771608869m2m8apjqad" name="sadasd" author="" url="" tags="" ctime="20260220183429" dir="1771608869ogqgulkx00" file="text.html">
+     <files>
+      <file id="1771614604tdu44owku8" fileName="15-arbeiten-mit-drawio.webm" link="/run/user/1000/gvfs/dav:host=nx22938.your-storageshare.de,ssl=true,user=fraukoh,prefix=%2Fremote.php%2Fwebdav/Documents/sammelstelle/jupyter-Notes/jupyter-db-j1/15-arbeiten-mit-drawio.webm" type="link"/>
+      <file id="17716147011q9v4hqt2d" fileName="15-arbeiten-mit-drawio.pdf" link="/run/user/1000/gvfs/dav:host=nx22938.your-storageshare.de,ssl=true,user=fraukoh,prefix=%2Fremote.php%2Fwebdav/Documents/sammelstelle/jupyter-Notes/jupyter-db-j1/15-arbeiten-mit-drawio.pdf" type="link"/>
+      <file id="1771614802l5b3oha6b1" fileName="14-daskalovs-bewegungsprofil.ipynb" type="file"/>
+     </files>
+    </record>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="1771608564ippvz17sdq" name="test" author="" url="" tags="" ctime="20260220182924" dir="1771608564exe8rhbl15" file="text.html">
+     <files>
+      <file id="1771608651mxialwt77d" fileName="2026-02-06_Datenschutz_L_2026.odt" type="file"/>
+     </files>
+    </record>
+   </recordtable>
+  </node>
+ </content>
+</root>
