@@ -13,13 +13,13 @@
      </files>
     </record>
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-    <record id="1771608564ippvz17sdq" name="test" author="" url="" tags="" ctime="20260220182924" dir="1771608564exe8rhbl15" file="text.html">
-     <files>
-      <file id="1771608651mxialwt77d" fileName="2026-02-06_Datenschutz_L_2026.odt" type="file"/>
-     </files>
-    </record>
-    <record id="17716191435u5y3amm8p" name="test2" author="" url="" tags="" ctime="20260220212543" dir="1771619143j24ru5ejcp" file="text.html"/>
    </recordtable>
+  </node>
+  <node crypt="" id="1771619346ray9ot5ppj" name="Rezepte"/>
+  <node crypt="" icon="/Universal/nocolor_universal_book.svg" id="1771619375qqzvnujzk8" name="Lesen"/>
+  <node crypt="" icon="/Universal/nocolor_universal_music.svg" id="1771619400lckji6zax5" name="Hören"/>
+  <node crypt="" id="1771619534vkh66g42v1" name="Hobby">
+   <node crypt="" id="1771619546r3pbhfehl8" name="Leder DIY"/>
   </node>
  </content>
 </root>
